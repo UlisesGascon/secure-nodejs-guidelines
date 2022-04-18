@@ -8,6 +8,31 @@ on:
 jobs:
 
   build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Check the project
+      uses: actions/setup-node@v1
+      with:
+        node-version: '17.9.0'
+        
+    - name: Check the project
+      uses: actions/setup-node@v1
+      with:
+        node-version: '17.9.0'
+
+    - name: 'Dependencies'
+      run: npm ci
+    
+    - name: 'Linter'
+      run: npm run lint
+    
+    - name: 'Tests'
+      run: npm run test 
+
+  deploy:
 
     runs-on: ubuntu-latest
 

@@ -14,6 +14,15 @@ jobs:
       with:
         node-version: '17.9.0'
 
+    - name: 'Dependencies'
+      run: npm ci
+    
+    - name: 'Linter'
+      run: npm run lint
+    
+    - name: 'Tests'
+      run: npm run test 
+
     - name: 'Build'
       run: docker build . --file Dockerfile --tag ulisesgascon/secure-nodejs-guidelines:latest
       
