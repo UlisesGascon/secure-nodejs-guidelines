@@ -33,7 +33,7 @@ jobs:
       run: npm run test 
 
   deploy:
-
+    needs: build
     runs-on: ubuntu-latest
 
     steps:
