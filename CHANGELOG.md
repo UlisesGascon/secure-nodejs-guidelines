@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/ulisesGascon/secure-nodejs-guidelines/compare/v0.1.1...v0.1.2) (2022-04-18)
+
+
+### Bug Fixes
+
+* added missing dockerfile ([a29b840](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/a29b840a6133002d36537a5753024d3ec2446e97))
+
 ### [0.1.1](https://github.com/ulisesGascon/secure-nodejs-guidelines/compare/v0.1.0...v0.1.1) (2022-04-18)
 
 
