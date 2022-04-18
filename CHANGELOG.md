@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/ulisesGascon/secure-nodejs-guidelines/compare/v0.1.0...v0.1.1) (2022-04-18)
+
+
+### Bug Fixes
+
+* ci pipelines location ([1283135](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/1283135be0ec02703b72a6d5a8e7c1a379e2d571))
+
 ## 0.1.0 (2022-04-18)
 
 
