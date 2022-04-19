@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/ulisesGascon/secure-nodejs-guidelines/compare/v0.1.3...v0.1.4) (2022-04-19)
+
+
+### Features
+
+* added Acknowledge block ([18f20ba](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/18f20babb0c4ca0af482414dc7f7005af274bc1a))
+* added Best practices block ([b27943f](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/b27943fb791f0f24db02c5b4e63eb9a74f03459b))
+* added environments block ([7e85f26](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/7e85f2677dc4304dcf6b38385bc954543f203d35))
+* added Experimental Features block ([b6c2f99](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/b6c2f99f04421a98a26b2b14bb658463f9536e40))
+* added intro block ([687687a](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/687687a7d13c5ae52fe5c02ece47729f8b73fe8e))
+* added JS Core block ([6e47c4b](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/6e47c4be5e8c786f2e2294301a1eafcf62138d54))
+* added Libraries block ([deab1dd](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/deab1ddf5867834985bafa41f551bd259c6eb5c6))
+* added Nodejs Core block ([8f9ae5d](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/8f9ae5d47337931d12e62458a7af47a6beee456f))
+* added Resources block ([aff422e](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/aff422ec69ff926f474ef0b0f34fdd6d6e42a717))
+* added threat models block ([efdc3b8](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/efdc3b86542541a821e3bb0680b2b07f2c241415))
+
 ### [0.1.3](https://github.com/ulisesGascon/secure-nodejs-guidelines/compare/v0.1.2...v0.1.3) (2022-04-18)
 
 
