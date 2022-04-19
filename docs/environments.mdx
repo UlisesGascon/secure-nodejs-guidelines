@@ -8,7 +8,36 @@ slug: /environments
 # Environments
 
 
-## Versions
+## Releases
+
+**Node.js released are divided in categories:**
+
+- Current: are odd-numbered releases (9, 11, etc.) and become unsupported after 6 months
+- Active LTS (long-term support): are even-numbered releases (10, 12, etc.) the first 6 months
+- Maintenance LTS (long-term support): are even-numbered releases (10, 12, etc.), after 6 months active LTS becomes Maintenance LTS  which typically guarantees that critical bugs will be fixed for a total of 30 months
+
+:::tip
+
+Production applications should only use Active LTS or Maintenance LTS releases. More details in [Node.js Releases](https://nodejs.org/en/about/releases)
+
+:::
 
 
-## Docker versions
+## Docker releases
+
+The official docker images are maintained by [The Node.js Docker Team](https://github.com/nodejs/docker-node)
+
+**There are three variants:**
+
+- `node:<version>`: defacto image based on debian, like `node:17.9.0`
+- `node:<version>-alpine`: image based on [Alpine Linux project](https://alpinelinux.org/), like `node:17.9.0-alpine3.15`
+- `node:<version>-slim`: Minimal image based on debian, like `node:17.9.0-slim`
+
+
+:::tip
+
+Production applications should try to use the base images that bundle the necesary resources for your application, that will reduce the surface attack. More details in [The Node.js Dockerhub Repository](https://hub.docker.com/_/node)
+
+:::
+
+
