@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file. See [standa
 * added description for prototype pollution attack ([d3c181e](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/d3c181ec1bccf06bae8833f1d454396021c62fff))
 * added edition mode per page ([c65bc81](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/c65bc815bb5fa42149365afcd0602b781650e541))
 * added introduction ([619024d](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/619024df0ddd4ca1df6fe9c3b79b88d89092179d))
-* added js threads ([044a81d](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/044a81d33dea9f6e335792ee8eb39e836bff085d))
+* added js threats ([044a81d](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/044a81d33dea9f6e335792ee8eb39e836bff085d))
 * added releases content ([9411e7e](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/9411e7e380812a4d8f330497b774f6cc4b238e71))
 * removed useless blocks ([674038a](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/674038a6cea662c5df96a4ceba4cfbf207815472))
 
