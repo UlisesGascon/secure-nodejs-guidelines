@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/ulisesGascon/secure-nodejs-guidelines/compare/v0.1.6...v0.1.7) (2022-05-25)
+
+
+### Features
+
+* added description for Lockfile Poisoned attack ([b3a4ec9](https://github.com/ulisesGascon/secure-nodejs-guidelines/commits/b3a4ec9f079be3d07c24c811d74a5a2615572c64))
+
 ### [0.1.6](https://github.com/ulisesGascon/secure-nodejs-guidelines/compare/v0.1.5...v0.1.6) (2022-04-20)
 
 
