@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
+    "start:spanish": "npm run start -- --locale es",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",

@@ -47,7 +47,11 @@ const config = {
             href: 'https://github.com/UlisesGascon/secure-nodejs-guidelines',
             label: 'GitHub',
             position: 'right'
-          }
+          },
+          {
+            type: 'localeDropdown',
+            position: 'left',
+          },
         ]
       },
       footer: {
@@ -58,7 +62,20 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme
       }
-    })
+    }),
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'es'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      es: {
+        label: 'Español',
+      },
+    },
+  },
 }
 
 module.exports = config
