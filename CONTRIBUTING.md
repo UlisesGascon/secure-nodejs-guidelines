@@ -1,1 +1,0 @@
-The [Node.js Security Working Group Code of Conduct](https://github.com/nodejs/security-wg/blob/main/CONTRIBUTING.md) applies to this repo.
